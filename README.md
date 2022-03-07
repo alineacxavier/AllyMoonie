@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou em transição de carreira.
 - 🌱 Estudando HTML. CSS e JavaScript
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/AllyMoonie">
